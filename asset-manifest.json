@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Google_Speech_TSNE_UMAP/static/css/main.5c2b4f7b.chunk.css",
+    "main.js": "/Google_Speech_TSNE_UMAP/static/js/main.b3a8f882.chunk.js",
+    "runtime-main.js": "/Google_Speech_TSNE_UMAP/static/js/runtime-main.e609109d.js",
+    "static/js/2.0bb5eb57.chunk.js": "/Google_Speech_TSNE_UMAP/static/js/2.0bb5eb57.chunk.js",
+    "index.html": "/Google_Speech_TSNE_UMAP/index.html",
+    "precache-manifest.4aa711f5b42c9dbcd0683537bd606edf.js": "/Google_Speech_TSNE_UMAP/precache-manifest.4aa711f5b42c9dbcd0683537bd606edf.js",
+    "service-worker.js": "/Google_Speech_TSNE_UMAP/service-worker.js",
+    "static/js/2.0bb5eb57.chunk.js.LICENSE.txt": "/Google_Speech_TSNE_UMAP/static/js/2.0bb5eb57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e609109d.js",
+    "static/js/2.0bb5eb57.chunk.js",
+    "static/css/main.5c2b4f7b.chunk.css",
+    "static/js/main.b3a8f882.chunk.js"
+  ]
+}

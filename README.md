@@ -1,6 +1,6 @@
 # Google_Speech_TSNE_UMAP [React Build]
 
-Dimensionality reduction (`T-SNE` and `UMAP`) applied to selected samples from [Google's Speech Commands Dataset](https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html)
+Dimensionality reduction (`T-SNE` and `UMAP`) applied to selected samples from [Google's Speech Commands Dataset](https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html). See it live [Here](https://speech-tsne-umap.netlify.app/)
 
 
 ## About
